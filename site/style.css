@@ -8,6 +8,7 @@ h2 {
 	}
 
 parentBox {
+	width: 50%;
 	margin: 0 auto;
 	}
 	
@@ -15,7 +16,7 @@ parentBox {
 	border: 2px solid black;
 	float: left;
 	width: 28%;
-	height: 230px;
+	height: 250px;
 	margin: 20px;
 	}
 	
