@@ -10,8 +10,9 @@ h2 {
 
 .box {
 	float: left;
-	width: 150px;
+	width: 33%;
 	height: 200px;
+	margin: 100px;
 	}
 	
 .food_type {
