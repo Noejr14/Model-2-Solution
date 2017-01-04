@@ -6,6 +6,11 @@ h1 {
 h2 {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	}
+
+.box {
+	float: left;
+	width: 150px;
+	height: 200px;
 	
 .food_type {
 	border-style: solid;
