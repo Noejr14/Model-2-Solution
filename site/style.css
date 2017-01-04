@@ -7,7 +7,7 @@ h2 {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
-parentBox {
+.parentBox {
 	width: 50%;
 	margin: 0 auto;
 }
@@ -44,4 +44,9 @@ section {
 
 #food_S {
 	background-color: #ffd9b3;
+}
+
+/* *******************Tablet View********************** */
+@media (min-width: 768px) and (max-width: 991) {
+	
 }
