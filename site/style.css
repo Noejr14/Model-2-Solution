@@ -13,6 +13,7 @@ parentBox {
 }
 	
 .box {
+	background-color: #e6e6e6;
 	border: 2px solid black;
 	float: left;
 	width: 28%;
