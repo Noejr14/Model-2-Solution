@@ -11,12 +11,15 @@ h2 {
 .box {
 	border: 2px solid black;
 	float: left;
-	width: 22%;
+	width: 15%;
 	height: 200px;
 	margin: 100px;
 	}
 	
 .food_type {
 	border: 2px solid black;
+	}
+
+#food_C {
 	}
 	
