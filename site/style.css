@@ -1,16 +1,16 @@
 h1 {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	text-align: center;
-	}
+}
 
 h2 {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	}
+}
 
 parentBox {
 	width: 50%;
 	margin: 0 auto;
-	}
+}
 	
 .box {
 	border: 2px solid black;
@@ -18,19 +18,27 @@ parentBox {
 	width: 28%;
 	height: 250px;
 	margin: 20px;
-	}
+}
 	
 .food_type {
 	text-align: center;
 	float: right;
 	width: 30%;
 	border: 2px solid black;
-	}
+}
 	
 section {
 	clear: right;
-	}
+}
 
 #food_C {
-	}
-	
+	background-color: #ff9999;
+}
+
+#food_B {
+	background-color: #ff4d4d;
+}
+
+#food_S {
+	background-color: #ffd9b3;
+}
