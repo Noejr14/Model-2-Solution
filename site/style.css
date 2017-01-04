@@ -9,7 +9,8 @@ h2 {
 
 #parentBox {
 	width: 90%;
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 	
 .box {
