@@ -31,6 +31,7 @@ parentBox {
 section {
 	clear: right;
 	text-align: left;
+	padding: 10px;
 }
 
 #food_C {
