@@ -64,6 +64,7 @@ section {
 /********************Mobile View***********************/
 
 @media (max-width: 767) {
+	#chicken_box {
 	width: 100%;
 		}
 	#sushi_Box {
