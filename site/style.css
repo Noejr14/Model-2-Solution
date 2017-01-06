@@ -54,7 +54,11 @@ section {
 
 
 /********************Tablet View***********************/
-
+@media (min-width: 768) and (max-width: 991) {
+	#Su_Box {
+		width: 100%;
+		}
+}
 
 /********************Mobile View***********************/
 
