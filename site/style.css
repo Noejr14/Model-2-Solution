@@ -8,6 +8,15 @@ h2 {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
+.box {
+	background-color: #e6e6e6;
+	border: 2px solid black;
+	float: left;
+	width: 425px;
+	height: 250px;
+	margin: 20px;
+}
+
 /*
 #row {
 	width: 100%;
