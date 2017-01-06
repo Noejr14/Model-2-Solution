@@ -8,11 +8,13 @@ h2 {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
-#parentBox {
+/* Simple Responsive Framework */
+#row {
 	width: 90%;
 	margin: auto;
 }
-	
+
+/*  Simple Responsive Framework */
 .box {
 	background-color: #e6e6e6;
 	border: 2px solid black;
@@ -50,7 +52,7 @@ section {
 /********************Tablet View***********************/
 
 @media (min-width: 768px) and (max-width: 991) {
-	#chicken_Box {
+	#col-lg-4 {
 		width: 50%;
 		}
 	#sushi_Box {
