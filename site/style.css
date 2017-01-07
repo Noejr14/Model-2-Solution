@@ -22,21 +22,21 @@ h2 {
 	background-color: pink;
 	border: 2px solid black;
 	float: right;
-	width: 35%;
+	width: 200px;
 }
 
 #b_B {
 	background-color: red;
 	border: 2px solid black;
 	float: right;
-	width: 35%;
+	width: 200px;
 }
 
 #s_B {
 	background-color: yellow;
 	border: 2px solid black;
 	float: right;
-	width: 100px;
+	width: 200px;
 }
 
 section {
