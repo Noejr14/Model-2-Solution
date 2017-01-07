@@ -63,9 +63,9 @@ section {
 }
 
 /********************Mobile View***********************/
-@media (max-width: 767px) {
+@media only screen and (max-width: 767px) {
 	#beef {
-		float: none;
+		clear: left;
 		width: 50%;
 		}
 	}
