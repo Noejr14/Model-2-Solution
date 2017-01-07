@@ -20,14 +20,14 @@ h2 {
 
 #c_B {
 	background-color: pink;
-	border: 5px solid black;
+	border: 2px solid black;
 	float: right;
 	width: 35%;
 }
 
 #b_B {
 	background-color: red;
-	border: 5px solid black;
+	border: 2px solid black;
 	float: right;
 	width: 35%;
 }
@@ -48,6 +48,7 @@ section {
 /*******************Desktop View***********************/
 @media (min-width: 992px) {
 	.box {
+		height: 300px;
 		width: 25%;
 		}
 }
