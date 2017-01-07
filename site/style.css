@@ -34,7 +34,7 @@ h2 {
 
 #s_B {
 	background-color: yellow;
-	border: 5px solid black;
+	border: 2px solid black;
 	float: right;
 	width: 30%;
 }
@@ -43,49 +43,14 @@ section {
 	padding: 10px;
 	clear: right;
 }
-/*
-#row {
-	width: 100%;
-	margin: auto;
-}
 
-
-.box {
-	background-color: #e6e6e6;
-	border: 2px solid black;
-	float: left;
-	width: 425px;
-	height: 250px;
-	margin: 20px;
-}
-	
-.food_type {
-	text-align: center;
-	float: right;
-	width: 30%;
-	border: 2px solid black;
-}
-	
-section {
-	clear: right;
-	text-align: left;
-	padding: 10px;
-}
-
-#food_C {
-	background-color: #ff9999;
-}
-
-#food_B {
-	background-color: #ff4d4d;
-}
-
-#food_S {
-	background-color: #ffd9b3;
-}
 
 /*******************Desktop View***********************/
-
+@media (min-width: 992px) {
+	.box {
+		width: 33%;
+		}
+}
 
 
 /********************Tablet View***********************/
