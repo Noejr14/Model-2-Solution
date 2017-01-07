@@ -59,8 +59,12 @@ section {
 	#sushi {
 		clear: left;
 		width 100%;
-	
 }
 
 /********************Mobile View***********************/
+@media (min-width: 768px) and (max-width: 991px) {
+	#beef {
+		clear: left;
+		width 100%;
+}
 
