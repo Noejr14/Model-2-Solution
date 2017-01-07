@@ -17,8 +17,20 @@ h2 {
 	margin: 20px;
 }
 
+#c_B {
+	background-color: pink;
+}
+
+#b_B {
+	background-color: red;
+}
+
+#s_B {
+	background-color: yellow;
+}
+
 section {
-	padding: 5px;
+	padding: 10px;
 }
 /*
 #row {
