@@ -55,10 +55,11 @@ section {
 
 
 /********************Tablet View***********************/
-/*@media (min-width: 768px) and (max-width: 991px) {
-	#Su_Box {
-		width: 100%;
-		}
+@media (min-width: 768px) and (max-width: 991px) {
+	#sushi {
+		clear: left;
+		width 100%;
+	
 }
 
 /********************Mobile View***********************/
