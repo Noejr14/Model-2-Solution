@@ -14,7 +14,7 @@ h2 {
 	border: 2px solid black;
 	float: left;
 	width: 425px;
-	height: 250px;
+	height: 300px;
 	margin: 20px;
 }
 
@@ -48,7 +48,7 @@ section {
 /*******************Desktop View***********************/
 @media (min-width: 992px) {
 	.box {
-		width: 33%;
+		width: 30%;
 		}
 }
 
