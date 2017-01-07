@@ -64,13 +64,7 @@ section {
 
 /********************Mobile View***********************/
 @media (max-width: 767px) {
-	.box {
-		width: 50%;
-		}
-
-/*	#beef {
+	#beef {
 		clear: left;
-		width: 50%;
-		}*/
-}
-
+		}
+	}
