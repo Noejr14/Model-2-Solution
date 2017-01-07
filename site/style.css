@@ -20,18 +20,21 @@ h2 {
 
 #c_B {
 	background-color: pink;
+	border: 5px solid black;
 	float: right;
 	width: 30%;
 }
 
 #b_B {
 	background-color: red;
+	border: 5px solid black;
 	float: right;
 	width: 30%;
 }
 
 #s_B {
 	background-color: yellow;
+	border: 5px solid black;
 	float: right;
 	width: 30%;
 }
