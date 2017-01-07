@@ -6,6 +6,7 @@ h1 {
 
 h2 {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align: center;
 }
 
 .box {
@@ -25,14 +26,19 @@ h2 {
 
 #b_B {
 	background-color: red;
+	float: right;
+	width: 30%;
 }
 
 #s_B {
 	background-color: yellow;
+	float: right;
+	width: 30%;
 }
 
 section {
 	padding: 10px;
+	clear: left;
 }
 /*
 #row {
