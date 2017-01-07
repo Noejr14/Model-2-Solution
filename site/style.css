@@ -64,13 +64,13 @@ section {
 
 /********************Mobile View***********************/
 @media (max-width: 767px) {
-	#sushi {
+	.box {
 		width: 50%;
 		}
 
-	#beef {
+/*	#beef {
 		clear: left;
 		width: 50%;
-		}
+		}*/
 }
 
